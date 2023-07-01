@@ -1,8 +1,8 @@
-### Práctica del curso de git, github y Sourcetree
+# Práctica del curso de git, github y Sourcetree
 
 ## Ejercicio 1
 
-# Respuestas:
+### Respuestas:
 
 - ¿Qué comandos utilizaste en el paso 11? ¿Por qué?.
 
